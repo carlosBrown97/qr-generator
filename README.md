@@ -1,6 +1,6 @@
 # QR Generator
 <p align="left">
- <img src="public/6a76eccf-07fa-45f1-96e4-9ac797186f30.png" width="100">
+ <img src="public/901bba6e-eba0-419b-bfeb-a3585519e4db.png" width="100">
 </p>
 
 ## Installation and usage
